@@ -1,0 +1,17 @@
+# 原曲：版权归 Frums，绝对不要提交
+real_track.wav
+*.wav
+*.aac
+*.flac
+*.m4a
+*.mp3
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 渲染中间产物
+frames/
+*.log

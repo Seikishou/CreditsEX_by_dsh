@@ -1,0 +1,29 @@
+SIGN-OFF — 素材归属与限制
+
+本仓库同时包含代码与媒体文件，两者的权利状态不同，请分别对待。
+
+1. 代码
+   所有 *.py 以 MIT 许可发布，见 LICENSE。
+   Copyright (c) 2026 Originium42
+
+2. 音乐
+   Frums — "Credits EX"（BOFU2015，179 BPM，4:38）。
+   版权归 Frums，不随本仓库授权。仓库中不含音频文件，
+   重新渲染需要使用者自备一份 4:38 的《Credits EX》。
+
+3. 视频与封面
+   样例.mp4、cover_1080p.png、cover_1080p_square.png 的画面由本项目制作，
+   但示例视频内嵌上述曲目，因此：
+   - 仅作学习参考；
+   - 不得商用；
+   - 不得二次上传到其他平台。
+
+4. 字幕文本
+   cues.json 转录自公开的字幕文件，仅用于本项目的时间轴对齐，
+   MIT 许可不覆盖该文件。
+
+5. 第三方
+   渲染使用 ffmpeg；字体为系统自带的 Consolas 与 Microsoft YaHei，未随包分发。
+   终端播放器不需要 numpy / Pillow。
+
+Bilibili:Originium42用Deepseek Harness制作仅作学习参考
