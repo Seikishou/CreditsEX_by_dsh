@@ -9,7 +9,7 @@
 **本目录不含原曲音频，也不含成片**——曲的版权属于 Frums，成片请到 B 站观看。
 想从头复现请自备一份 4:38 的《Credits EX》。
 
-> 观看：[B 站 — Originium42](https://space.bilibili.com/)（把链接换成视频地址）
+> 观看：[B 站](https://www.bilibili.com/video/BV1t8x166E7J/?share_source=copy_web&vd_source=16ac8bab74645e2ab9d8d1ad8b27e33a)
 
 ## 里面有什么
 
@@ -76,7 +76,7 @@ python caption_build.py 1.3333 16
 
 * 曲：Frums — *Credits EX*（BOFU2015，179 BPM，4:38），版权归 Frums。
 * 原 PV 由 Frums 制作；动画工程另有 plaaosert 的复刻版本，与本目录无关。
-* 字幕文本与时间轴来自公开字幕文件。
+* 字幕文本与时间轴来自网易云音乐，感谢大佬。
 * 本目录的画面、排版与渲染代码为本项目所有，仅供学习参考，不作商用。
 
 ## 许可
@@ -85,7 +85,4 @@ python caption_build.py 1.3333 16
 | --- | --- |
 | 代码（`*.py`） | **MIT**，见 [`LICENSE`](LICENSE) |
 | 视频 / 封面 | 画面版权归作者；内嵌 Frums 的曲目，仅作学习参考，**禁止商用与二次上传** |
-| 字幕文本（`cues.json`） | 转录自公开字幕文件，不适用 MIT |
-
-完整说明见 [`NOTICE`](NOTICE)。仓库已用 `.gitignore` 排除 `real_track.wav` 等音频文件。
 
