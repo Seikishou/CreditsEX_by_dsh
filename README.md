@@ -1,4 +1,5 @@
 > Bilibili:Originium42用Deepseek Harness制作仅作学习参考
+> 所有文件需要您自己从Code(那个绿色的) -> Download ZIP(最底下)
 
 # SIGN-OFF — 一台字幕机的最后四分钟
 
